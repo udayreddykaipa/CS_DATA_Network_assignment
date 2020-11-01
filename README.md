@@ -1,4 +1,4 @@
-# CS_DATA_Network_assignmen, This repo is assignment data worked on SOcket Programming In C. 
+# CS_DATA_Network_assignment, This repo of assignment worked on Socket Programming In C. 
 CS 5133: Data Networks
 Project-2
 Hamming Distance and Checksum using
